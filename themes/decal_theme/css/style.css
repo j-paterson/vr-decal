@@ -1,0 +1,26 @@
+/**
+ * Place your custom styles here.
+ */
+
+.views-row{
+	display:flex;
+}
+
+.view-homeworks .views-field-field-banner{
+	float:left;
+	margin:10px;
+}
+
+.view-labs .views-field-field-banner{
+	float:left;
+	margin:10px;
+}
+
+.view-lectures .views-field-field-banner{
+	float:left;
+	margin:10px;
+}
+
+.logo{
+	margin:20px;
+}
